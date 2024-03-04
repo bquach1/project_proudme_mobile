@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "project-proudme-mobile",
+    "slug": "project-proudme-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "project-proudme-mobile"
+}
